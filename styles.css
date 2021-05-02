@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 header{
     background-color: cornflowerblue;
     width: 100%;
+=======
+footer{
+    width: 100%;
+    background-color: blanchedalmond;
+>>>>>>> footer
     padding: 25px 0;
     text-align: center;
 }
